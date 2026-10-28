@@ -10,5 +10,5 @@ const b = () =>{
 }
 
 const c = () =>{
-    console.log("cccccc")
+    console.log("function c")
 }
